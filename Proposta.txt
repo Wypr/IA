@@ -1,0 +1,7 @@
+Avaliação de crédito de clientes com base nas compras com cartão de crédito. 
+
+Para a base de dados contida em : https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
+e analisada pelo artigo, deverá ser feita uma análise por diversos pontos:
+Como a base de dados só tem 2 classes, pode-se usar o classificador perceptron simples e comparar seus resultados com SVM, Naive Bayes e Knn. 
+
+A outra  é verificar a aplicação de um método de agrupamento para agrupar clientes em(2, 3, 4 e 5 grupos), computar  indices de agrupamento e tentar extrair alguma informação ultil dos dados.  
